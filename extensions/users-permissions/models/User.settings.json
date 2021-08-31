@@ -66,6 +66,10 @@
     "comments": {
       "via": "user",
       "collection": "comment"
+    },
+    "events": {
+      "via": "user",
+      "collection": "events"
     }
   }
 }
