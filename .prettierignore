@@ -1,0 +1,15 @@
+public
+package.json
+package-lock.json
+node_modules/
+.cache
+.github
+.gitignore
+.next
+.vscode
+.prettierrc.json
+.strapi-updater.json
+api/
+build/
+config/
+extensions/
